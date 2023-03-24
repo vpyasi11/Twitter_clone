@@ -1,0 +1,40 @@
+{
+    "username": "Chandramani",
+    "password": "vishu@11",
+    "email": "vpyasi11@gmail.com",
+    "phone": "899999999",
+    "name": "vishu",
+    "bio": "I am a developer",
+    "location": "Damoh, India",
+    "profilePic": "name.png",
+    "created": "12-03-2023",
+    "website": "https://prashantdey.in",
+    "following": [
+        {
+            "follow":"ObjectId(464684864684)"
+        },
+        {
+            "follow":"ObjectId(846464646565)"
+        }
+    ],
+    "followers": [
+        {
+            "follow":"ObjectId(464684864684)"
+        },
+        {
+            "follow":"ObjectId(846464646565)"
+        }
+    ],
+    "tweets": [
+        {
+            "tweet": "ObjectId(846464646565)"
+        },
+        {
+            "tweet": "ObjectId(846464646565)"
+        },
+        {
+            "tweet": "ObjectId(846464646565)"
+        }
+    ]
+
+}
